@@ -9,14 +9,14 @@ Este projeto demonstra a orquestração de uma aplicação composta por três se
 
 ## Estrutura do Projeto
 
-/your-project-directory
-|-- app/
-| |-- server.py
-| |-- web.py
-| |-- requirements.txt
-| |-- Dockerfile
-|-- db/
-| |-- init.sql
+/your-project-directory\
+|-- app/\
+| |-- server.py\
+| |-- web.py\
+| |-- requirements.txt\
+| |-- Dockerfile\
+|-- db/\
+| |-- init.sql\
 |-- docker-compose.yml
 
 
