@@ -31,8 +31,8 @@ Este projeto demonstra a orquestração de uma aplicação composta por três se
 ## Instruções de Configuração
 1. **Clonar o Repositório**:
    ```bash
-   git clone [URL-do-repositorio]
-   cd your-project-directory
+   git clone https://github.com/ICTIN-UFLA/Cliente-Servidor-Exemplo.git
+   cd Cliente-Servidor-Exemplo
 
 2. **Construir e Iniciar os Serviços**:
 
@@ -63,4 +63,4 @@ docker-compose down
 
 ### Suporte
 
-## Se você encontrar problemas ou tiver dúvidas, não hesite em entrar em contato através de [bento.siqueira@ufla.br].##
+Se você encontrar problemas ou tiver dúvidas, não hesite em entrar em contato através de [bento.siqueira@ufla.br].
