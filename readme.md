@@ -52,12 +52,12 @@ Este projeto demonstra a orquestração de uma aplicação composta por três se
 
 ## Logs de Diagnóstico
 
-# Verifique os logs no terminal onde o docker-compose up está executando para identificar qualquer problema ou erro durante a execução dos serviços.
+Verifique os logs no terminal onde o docker-compose up está executando para identificar qualquer problema ou erro durante a execução dos serviços.
 
 
 ### Encerrando os Serviços
 
-## **Para parar e remover os contêineres criados pelo Docker Compose, execute**:
+Para parar e remover os contêineres criados pelo Docker Compose, execute: \
 
 docker-compose down
 
